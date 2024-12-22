@@ -1,6 +1,6 @@
 # React + Vite
 
-## Live : [San's Cafe] (https://coddeve-sans-cafe.netlify.app/)
+## Live : [San's Cafe](https://coddeve-sans-cafe.netlify.app/)
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
